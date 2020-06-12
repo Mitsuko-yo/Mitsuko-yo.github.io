@@ -2,13 +2,16 @@
 
 This is a **bold** text, this is *italic*, this is a [link google](https://www.google.com/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+List:
+* bulletpoint 1
+* bulletpoint 2
+
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+ ```markdown
 Syntax highlighted code block
 
 # Header 1
