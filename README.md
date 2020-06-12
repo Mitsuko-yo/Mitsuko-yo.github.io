@@ -4,7 +4,7 @@ This is a **bold** text, this is *italic*, this is a [link google](https://www.g
 
 List:
 * bulletpoint 1
-- bulletpoint 2
+      - bulletpoint 2
 
 Enumerate:
 1. Janvier
