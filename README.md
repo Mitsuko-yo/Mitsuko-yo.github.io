@@ -9,8 +9,8 @@ List:
 Enumerate:
 1. Janvier
 1. Fevrier
-1.2. Mars
-1.2. Avril
+ 1. Mars
+ 1. Avril
 
 ```markdown
 gray
