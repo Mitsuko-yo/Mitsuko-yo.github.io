@@ -7,10 +7,11 @@ List:
 - bulletpoint 2
 
 Enumerate:
-1. Janvier
-1. Fevrier
- 1. Mars
- 1. Avril
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
 
 ```markdown
 gray
