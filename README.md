@@ -6,6 +6,15 @@ List:
 * bulletpoint 1
 * bulletpoint 2
 
+List:
+- dash
+- dash
+
+
+```markdown
+gray
+```
+
 
 ### Markdown
 
