@@ -17,6 +17,8 @@ Enumerate:
 gray
 ```
 
+![Monster](C:\Users\Pomme\PycharmProjects\Mimii\data\Monster_small.png)
+
 
 ### Markdown
 
