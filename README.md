@@ -4,11 +4,11 @@ This is a **bold** text, this is *italic*, this is a [link google](https://www.g
 
 List:
 * bulletpoint 1
-* bulletpoint 2
+- bulletpoint 2
 
-List:
-- dash
-- dash
+Enumerate:
+1. Janvier
+1. Fevrier
 
 
 ```markdown
